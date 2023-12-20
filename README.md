@@ -1,4 +1,6 @@
 ### :fish_cake: silverA
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:silvermare01@gmail.com)](mailto:silvermare01@gmail.com)
+
 I am a new developer aspiring to work in the field of data. I plan to create a TIL(Today I Learned) repository where I will systematically document what I learn while studying and advancing in my career.
 
 ###    :stars: Leanring
